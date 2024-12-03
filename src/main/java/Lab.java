@@ -27,5 +27,6 @@ public class Lab {
      */
     public String copy(String text){
         return text;
+        // that was awkward as tests wasn't appearing originally -- thus won't allow me to pass this coding lab
     }
 }
